@@ -8,4 +8,5 @@ https://github.com/schoolpost/CinePI
 https://docs.sunfounder.com/projects/raphael-kit/en/latest/index.html
 
 3. An Opensource, Cross-Platform, Programmable, Modular Macropad Software
-https://github.com/stream-pi
+- https://github.com/stream-pi
+- https://stream-pi.com/
