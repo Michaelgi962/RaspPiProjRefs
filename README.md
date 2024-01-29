@@ -14,8 +14,8 @@ Raspberry Pi Project Inspiration, Resources, &amp; References
 
 # Project Line-up
 
-## Next
+## Ongoing
 - Stream-pi
 
-## Up-Coming
+## Upcoming
 - CinePI
