@@ -43,4 +43,5 @@ Evaluation criteria and outcomes of certain projects:
   - **M**: Remotely communicating with the Raspberry Pi with a secure shell session from my laptop was also super neat before everything fell apart. 
   - **M**: I was looking forward to the next step of running the server on my laptop that would facilitate the connection to and from the client running on the Raspberyr Pi. 
   - **M**: The biggest disappointment was not getting to program even one macro for a virtual button that would have broke past the surface of workflow automation projects into interfacing programmable control stations with my laptop.
+
 _This repository is a living document and will be updated with new projects, resources, and evaluations over time. Stay tuned for more Raspberry Pi adventures!_
