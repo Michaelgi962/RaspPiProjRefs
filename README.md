@@ -39,7 +39,7 @@ Evaluation criteria and outcomes of certain projects:
       - Worked in a limited capacity and failed to function after closing and reopening.
       - The unreliability led to the project becoming a time sink, potentially hindering progress with automation technologies.
   - **Remarks**:
-    - Initial excitement was high with successful communication between the touchscreen and Raspberry Pi, showcasing potential for complex interactions.
+    - Initial excitement was high with successful communication between the touchscreen and Raspberry Pi, showcasing potential for programmable interactions from the touchscreen through the client running on the Raspberyr Pi.
     - Secure shell sessions from a laptop to the Raspberry Pi were initially promising.
     - Anticipation for advancing to server-client interactions for enhanced connectivity.
     - Disappointment in not achieving the programming of macros for workflow automation and interfacing programmable control stations.
