@@ -34,7 +34,10 @@ Ref: https://www.youtube.com/watch?v=dwRMK9LzBBc
 # Evaluation
 
 ## CowPi Projects
-~~Stream-Pi: An Opensource, Cross-Platform, Programmable, Modular Macropad Software ~~
-- https://github.com/stream-pi 
-- https://stream-pi.com/ ~~
-- Failed mainly because super bad documentation
+~~Stream-Pi: An Opensource, Cross-Platform, Programmable, Modular Macropad Software~~
+~~- https://github.com/stream-pi~~
+~~- https://stream-pi.com/~~
+- Criteria of Failure: 
+-> no documentation
+-> inactive project (i.e. No developments for 1yr)
+-> inactive discord community (i.e. No messages for 1mo)
