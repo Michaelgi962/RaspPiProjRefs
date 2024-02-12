@@ -38,11 +38,11 @@ Ref: https://www.youtube.com/watch?v=dwRMK9LzBBc
 ~~- https://github.com/stream-pi~~
 ~~- https://stream-pi.com/~~
 - Criteria of Failure: 
- -> M: no documentation
- -> M: inactive project (i.e. No developments for 1yr)
- -> M: inactive discord community (i.e. No messages for 1mo)
- -> B&M: project unstable & unreliable:
-  i. worked in a limited capacity and didnt work afterclosing and reopening
-  ii. the unreliability of the project may ended up as a time sink resulting in new technology being introduces for automation that is actually slowing down the user.
+- -> M: no documentation
+- -> M: inactive project (i.e. No developments for 1yr)
+- -> M: inactive discord community (i.e. No messages for 1mo)
+- -> B&M: project unstable & unreliable:
+- i. worked in a limited capacity and didnt work afterclosing and reopening
+- ii. the unreliability of the project may ended up as a time sink resulting in new technology being introduces for automation that is actually slowing down the user.
 - Remarks:
  ->   
