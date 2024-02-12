@@ -5,13 +5,13 @@ Raspberry Pi Project Inspiration, Resources, &amp; References
  
 ## Upcoming 
 
-2. CinePI V2: OpenSource Cinema Camera using Raspberry Pi 
+1. CinePI V2: OpenSource Cinema Camera using Raspberry Pi 
 - https://github.com/schoolpost/CinePI 
  
-3. Raspberry Pi Sunfounder Projects 
+2. Raspberry Pi Sunfounder Projects 
 - https://docs.sunfounder.com/projects/raphael-kit/en/latest/index.html 
  
-4. Raspberry-Pi-Looper-synth-drum-thing ~'Candidate for Music Making Project' 
+3. Raspberry-Pi-Looper-synth-drum-thing ~'Candidate for Music Making Project' 
 - https://github.com/otem/Raspberry-Pi-Looper-synth-drum-thing 
 
 
@@ -38,6 +38,11 @@ Ref: https://www.youtube.com/watch?v=dwRMK9LzBBc
 ~~- https://github.com/stream-pi~~
 ~~- https://stream-pi.com/~~
 - Criteria of Failure: 
--> no documentation
--> inactive project (i.e. No developments for 1yr)
--> inactive discord community (i.e. No messages for 1mo)
+-> M: no documentation
+-> M: inactive project (i.e. No developments for 1yr)
+-> M: inactive discord community (i.e. No messages for 1mo)
+-> B&M: project unstable & unreliable:
+i. worked in a limited capacity and didnt work afterclosing and reopening
+ii. the unreliability of the project may ended up as a time sink resulting in new technology being introduces for automation that is actually slowing down the user.
+- Remarks:
+->   
