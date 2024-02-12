@@ -34,7 +34,7 @@ Ref: https://www.youtube.com/watch?v=dwRMK9LzBBc
 # Evaluation
 
 ## CowPi Projects
-~~Stream-Pi: An Opensource, Cross-Platform, Programmable, Modular Macropad Software 
+~~Stream-Pi: An Opensource, Cross-Platform, Programmable, Modular Macropad Software ~~
 - https://github.com/stream-pi 
 - https://stream-pi.com/ ~~
 - Failed mainly because super bad documentation
