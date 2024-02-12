@@ -38,5 +38,9 @@ Evaluation criteria and outcomes of certain projects:
     - **B&M**: Project instability and unreliability:
       1. Worked in a limited capacity and failed to function after closing and reopening.
       2. The unreliability led to the project becoming a time sink, potentially hindering progress with automation technologies.
-
+- **Remarks**: 
+  - **M**: It was very exciting to get verification of communication of between the touchscreen and the client running on the Raspberry Pi where the coordinates of the location on the pressure sensor on the screen showed up as output in the clients returned feed as it ran in its command window. This functionality was lost after powering everything down and powering everything back up when trying again the next day. 
+  - **M**: Remotely communicating with the Raspberry Pi with a secure shell session from my laptop was also super neat before everything fell apart. 
+  - **M**: I was looking forward to the next step of running the server on my laptop that would facilitate the connection to and from the client running on the Raspberyr Pi. 
+  - **M**: The biggest disappointment was not getting to program even one macro for a virtual button that would have broke past the surface of workflow automation projects into interfacing programmable control stations with my laptop.
 _This repository is a living document and will be updated with new projects, resources, and evaluations over time. Stay tuned for more Raspberry Pi adventures!_
