@@ -16,6 +16,9 @@ Raspberry Pi Project Inspiration, Resources, &amp; References
 3. Raspberry Pi Sunfounder Projects
 - https://docs.sunfounder.com/projects/raphael-kit/en/latest/index.html
 
+4. Raspberry-Pi-Looper-synth-drum-thing ~'Candidate for Music Making Project'
+- https://github.com/otem/Raspberry-Pi-Looper-synth-drum-thing
+
 
 ## Ongoing
 - Stream-pi
